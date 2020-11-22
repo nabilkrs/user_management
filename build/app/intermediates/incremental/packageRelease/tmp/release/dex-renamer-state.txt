@@ -1,4 +1,4 @@
-#Tue Nov 17 22:32:44 GMT+01:00 2020
+#Sun Nov 22 12:20:52 GMT+01:00 2020
 base.0=C\:\\Users\\Nabeel\\Documents\\crudapp\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Nabeel\\Documents\\crudapp\\build\\app\\intermediates\\res\\merged\\release\\values-th_values-th.arsc.flat",
+            "outputFile": "C:\\Users\\Nabeel\\Documents\\crudapp\\build\\app\\intermediates\\res\\merged\\release\\values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-th\\values-th.xml",
+                    "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,10 +31,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Nabeel\\Documents\\crudapp\\build\\app\\intermediates\\res\\merged\\release\\values-uz_values-uz.arsc.flat",
+            "outputFile": "C:\\Users\\Nabeel\\Documents\\crudapp\\build\\app\\intermediates\\res\\merged\\release\\values-th_values-th.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\Nabeel\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -8,7 +8,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="Users Manager"
-        android:icon="@drawable/icon.jpg">
+        android:icon="@drawable/icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

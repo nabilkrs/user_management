@@ -17,7 +17,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-        android:icon="@drawable/icon.jpg"
+        android:icon="@drawable/icon"
         android:label="Users Manager" >
         <activity
             android:name="com.example.crudapp.MainActivity"
